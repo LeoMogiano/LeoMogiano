@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leo Mogiano</h1>
+<h1 align="center">Hello, I'm Leo Mogiano</h1>
 <h3 align="center">A passionate backend jr web developer and mobile jr developer.</h3>
 
 - 🌱 I’m currently learning **Mobile Developement with Flutter and deepening my knowledge in Laravel**
@@ -14,7 +14,7 @@
 <div> 
 
   <a href="https://instagram.com/leo_mogiano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<
+ 	
   
 </div>
 
