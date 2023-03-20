@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🐺, I'm Leo </h1>
+<h1 align="center">Hello 🐺, I'm Leo</h1>
 <h3 align="center">A passionate backend jr web developer and mobile developer.</h3>
 
 # 💫 About Me:
