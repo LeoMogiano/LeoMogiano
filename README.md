@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🐺, I'm Leo</h1>
-<h3 align="center">A passionate backend jr web developer and mobile developer.</h3>
+<h3 align="center">A passionate junior backend web and mobile developer.</h3>
 
 # 💫 About Me:
 🔭 I have graduated and am currently in the process of obtaining my degree.<br>🤝 I’m looking for help with mobile development - flutter.<br>🌱 I’m currently learning Flutter and deepening my knowledge in Laravel.<br>💬 Ask me about web developmen using laravel.<br>⚡ Fun fact - I can fall asleep while listening to music.
