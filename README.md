@@ -8,6 +8,15 @@
 💬 Ask me about web development using Laravel.<br>
 ⚡ Fun fact - I can fall asleep while listening to music.
 
+# ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/LeoMogiano">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoMogiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoMogiano&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
