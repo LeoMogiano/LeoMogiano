@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🐺, I'm Leo</h1>
-<h3 align="center">A passionate junior mobile developer.</h3>
+<h3 align="center">A passionate junior mobile developer 🧑🏻‍💻.</h3>
 
 # 💫 About Me:
 🔭 I have graduated and am currently in the process of obtaining my degree.<br>
