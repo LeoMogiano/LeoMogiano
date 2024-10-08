@@ -1,11 +1,11 @@
 <h1 align="center">Hello 🐺, I'm Leo</h1>
-<h3 align="center">A passionate junior backend web and mobile developer.</h3>
+<h3 align="center">A passionate junior mobile developer.</h3>
 
 # 💫 About Me:
 🔭 I have graduated and am currently in the process of obtaining my degree.<br>
 🤝 Seeking mobile development help - primarily Swift, minorly Flutter.<br>
-🌱 Currently learning Swift and Flutter while deepening my knowledge in Laravel.<br>
-💬 Ask me about web development using Laravel.<br>
+🌱 Currently learning Swift while deepening my knowledge in Flutter.<br>
+💬 Ask me about mobile development using Flutter.<br>
 ⚡ Fun fact - I can fall asleep while listening to music.
 
 # ⚙️ &nbsp;GitHub Analytics
@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/LeoMogiano">
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoMogiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoMogiano&layout=compact&langs_count=8&theme=algolia&hide=php,css,html,cmake,c%2B%2B"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoMogiano&layout=compact&langs_count=8&theme=algolia&hide=php,blade,css,html"/>
 </a>
 </p>
 
