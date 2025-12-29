@@ -5,15 +5,27 @@
   <img src="https://img.shields.io/github/followers/LeoMogiano?label=Followers&style=social" />
 </p>
 
+<p align="center">
+  <a href="https://facebook.com/leo.mogiano">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/leo_mogiano">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leomogiano/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/>
+  </a>
+</p>
+
 <h3 align="center">A passionate mobile developer 🧑🏻‍💻.</h3>
 
 ---
 
 ## 💫 About Me
-🔭 I have graduated and am currently in the process of obtaining my degree.  
-🤝 Seeking mobile development help – primarily Swift, minorly Flutter.  
-🌱 Currently learning Swift while deepening my knowledge in Flutter.  
-💬 Ask me about mobile development using Flutter.  
+🎓 Systems Engineering graduate in Mobile Development (Flutter / Kotlin).  
+📱 Mobile apps with physical hardware integration.  
+🧠 Pixel-perfect UI, performance, and mobile security focus.  
+🍎 Learning iOS development with Swift.  
 ⚡ Fun fact – I can fall asleep while listening to music.
 
 ---
@@ -39,20 +51,4 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://facebook.com/leo.mogiano">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/leo_mogiano">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leomogiano/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/>
-  </a>
 </p>
