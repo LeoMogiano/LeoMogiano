@@ -3,18 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeoMogiano&label=Profile%20views&color=594560&style=flat" />
   <img src="https://img.shields.io/github/followers/LeoMogiano?label=Followers&style=social" />
-</p>
-
-<p align="center">
-  <a href="https://facebook.com/leo.mogiano">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/leo_mogiano">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leomogiano/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/>
-  </a>
+  <a href="https://facebook.com/leo.mogiano"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/leo_mogiano"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leomogiano/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white"/></a>
 </p>
 
 <h3 align="center">A passionate mobile developer 🧑🏻‍💻.</h3>
