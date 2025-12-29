@@ -21,17 +21,6 @@
 
 ---
 
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/LeoMogiano">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoMogiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoMogiano&layout=compact&langs_count=8&theme=algolia&hide=php,blade,css,html"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -43,3 +32,16 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
+
+---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/LeoMogiano">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoMogiano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoMogiano&layout=compact&langs_count=8&theme=algolia&hide=php,blade,css,html"/>
+  </a>
+</p>
+
+
